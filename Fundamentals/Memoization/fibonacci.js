@@ -20,4 +20,5 @@ const fib = (n, preValues = []) => {
     return result;
 }
  
+// Calling Fibonacci fn.
 console.log(fib(100));
